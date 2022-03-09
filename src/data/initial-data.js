@@ -1,43 +1,55 @@
 const initialData = [
     {
+        id: 'step-1',
         title: "To Do",
-        order: 1,
         itens: [
             {
-                title: "Item 1", order: 1
+                id: 'item-1',
+                title: "Item 1", 
             },
             {
-                title: "Item 2", order: 2
+                id: 'item-2',
+                title: "Item 2", 
             },
             {
-                title: "Item 3", order: 3
+                id: 'item-3',
+                title: "Item 3", 
             }
         ]
     },
     {
+        id: 'step-2',
         title: "Doing",
-        order: 2,
         itens: [
             {
-                title: "Item 4", order: 1
+                id: 'item-4',
+                title: "Item 4", 
             },
             {
-                title: "Item 5", order: 2
+                id: 'item-5',
+                title: "Item 5", 
             },
             {
-                title: "Item 6", order: 3
+                id: 'item-6',
+                title: "Item 6", 
             },
             {
-                title: "Item 7", order: 3
+                id: 'item-7',
+                title: "Item 7", 
             },
         ]
     },
     {
+        id: 'step-3',
         title: "Done",
-        order: 3,
         itens: [
             {
-                title: "Item 8", order: 1
+                id: 'item-8',
+                title: "Item 8", 
+            },
+            {
+                id: 'item-9',
+                title: "Item 9", 
             }
         ]
     }

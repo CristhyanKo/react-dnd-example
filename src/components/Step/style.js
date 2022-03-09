@@ -18,3 +18,5 @@ export const StepBox = styled.div`
         margin-bottom: 20px;
     }
 `
+
+export const Container = styled.div``
