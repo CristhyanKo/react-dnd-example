@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-dnd-example/static/css/main.b6b486cf.css",
+    "main.js": "/react-dnd-example/static/js/main.83066002.js",
+    "index.html": "/react-dnd-example/index.html",
+    "main.b6b486cf.css.map": "/react-dnd-example/static/css/main.b6b486cf.css.map",
+    "main.83066002.js.map": "/react-dnd-example/static/js/main.83066002.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6b486cf.css",
+    "static/js/main.83066002.js"
+  ]
+}
